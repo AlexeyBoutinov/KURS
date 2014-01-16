@@ -1,0 +1,25 @@
+﻿Сборка начата 16.01.2014 2:42:37.
+     1>Проект "C:\Users\Танюша\Desktop\сапер\Miner.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Application\Application.cpp Application\FieldManager\FieldManager.cpp Application\Field\Field.cpp main.cpp Text\Text.cpp
+         Text.cpp
+         main.cpp
+         Field.cpp
+         FieldManager.cpp
+         Application.cpp
+         Создание кода...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\Miner.res" Miner.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Танюша\Desktop\сапер\Debug\Miner.exe" /INCREMENTAL /NOLOGO Gdiplus.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Танюша\Desktop\сапер\Debug\Miner.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Танюша\Desktop\сапер\Debug\Miner.lib" /MACHINE:X86 Debug\Miner.res
+         Debug\Application.obj
+         Debug\FieldManager.obj
+         Debug\Field.obj
+         Debug\main.obj
+         Debug\Text.obj
+         Miner.vcxproj -> C:\Users\Танюша\Desktop\сапер\Debug\Miner.exe
+     1>Сборка проекта "C:\Users\Танюша\Desktop\сапер\Miner.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:09.79
